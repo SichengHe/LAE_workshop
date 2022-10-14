@@ -1,4 +1,5 @@
 # LAE visualization workshop
+<img width="960" alt="workshop" src="https://user-images.githubusercontent.com/10147055/195889850-f05c90f6-4798-454b-83dc-f65681b92982.png">
 
 ## Audience
 This workshop was delivered on Oct 14, 2022 to LAE students (mainly first year Ph.D. and master students).
